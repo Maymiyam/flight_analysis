@@ -4,7 +4,7 @@ This repository presents an in-depth analysis of flight data from various airlin
 
 ## Overview
 
-The primary aim of this analysis is to delve into the dynamics of air travel within India, examining key factors such as popular routes, pricing trends, and the influence of various variables on flight durations and ticket prices. The dataset spans a period from [start date] to [end date], providing a comprehensive view of the aviation landscape during this time.
+The primary aim of this analysis is to delve into the dynamics of air travel within India, examining key factors such as popular routes, pricing trends, and the influence of various variables on flight durations and ticket prices.
 
 ## Contents
 
@@ -14,7 +14,8 @@ The primary aim of this analysis is to delve into the dynamics of air travel wit
 4. **Route Analysis**: Identification of the most popular routes, common departure and arrival points, and their impact on ticket prices.
 5. **Time Analysis**: Investigation into the influence of departure and arrival times on ticket prices and flight durations.
 6. **Correlation Analysis**: Evaluation of correlations between different variables, such as price, duration, and total stops, to understand their interrelationships.
-7. **Machine Learning Models**: Development and evaluation of machine learning models to predict ticket prices and analyze the significance of various predictors.
+7. **Missing Data Imputation**: Implementation of a function to recover missing values using similar rows, enhancing data completeness and analysis reliability.
+8. **Machine Learning Models**: Development and evaluation of machine learning models to predict ticket prices and analyze the significance of various predictors.
 
 ## Key Findings
 
